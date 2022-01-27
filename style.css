@@ -1,4 +1,12 @@
 .image {
-    width: 400px;  
-    max-width: 300px;
+    width: 100%;  
+}
+
+.box {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
